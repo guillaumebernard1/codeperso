@@ -1,0 +1,49 @@
+p
+{
+    color: blue;
+    font-size: 40px;
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+}
+
+h1
+{
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.introduction
+{
+	color: red;
+}
+
+.caca
+{
+	color: green;
+}
+
+.souligne
+{
+    text-decoration: underline;
+}
+
+.float 
+{ float: left;
+	width: 300px;
+
+
+	// changement
+}
+
+body
+{background-color: pink;
+background-image: url("antber.jpg");
+}
+
+
+
+
+
+
+
+
